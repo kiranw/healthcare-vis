@@ -330,6 +330,7 @@ function setYear(yr){
         var data1 = stateHospitalData[state1];
         var data2 = stateHospitalData[state2];
 
+        console.log(data1["Spending"]);
         $("#spending1").text("$" + data1["Spending"][year]);
         $("#population1").text(parseInt(data1["Population"][year]).toLocaleString(
             'en-us',
