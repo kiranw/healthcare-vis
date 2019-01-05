@@ -1,0 +1,225 @@
+State,Measure Name,Number less than national payment,Number same as national payment,Number greater than national payment,Number of hospitals too few
+AK,Payment for heart attack patients,0,5,0,13
+AK,Payment for heart failure patients,5,3,0,15
+AK,Payment for pneumonia patients,11,3,0,9
+AK,Payment for hip/knee replacement patients,8,0,0,1
+AL,Payment for heart attack patients,4,34,1,47
+AL,Payment for heart failure patients,17,59,1,12
+AL,Payment for pneumonia patients,32,48,4,5
+AL,Payment for hip/knee replacement patients,10,18,15,6
+AR,Payment for heart attack patients,3,22,1,44
+AR,Payment for heart failure patients,5,52,5,11
+AR,Payment for pneumonia patients,16,45,10,2
+AR,Payment for hip/knee replacement patients,14,9,8,9
+AS,Payment for heart attack patients,0,0,0,1
+AS,Payment for heart failure patients,0,0,0,1
+AS,Payment for pneumonia patients,1,0,0,0
+AS,Payment for hip/knee replacement patients,0,0,0,0
+AZ,Payment for heart attack patients,3,36,7,19
+AZ,Payment for heart failure patients,4,31,15,22
+AZ,Payment for pneumonia patients,13,37,16,8
+AZ,Payment for hip/knee replacement patients,27,21,2,3
+CA,Payment for heart attack patients,10,175,19,108
+CA,Payment for heart failure patients,24,170,70,66
+CA,Payment for pneumonia patients,48,134,104,45
+CA,Payment for hip/knee replacement patients,96,69,44,81
+CO,Payment for heart attack patients,3,29,1,33
+CO,Payment for heart failure patients,3,45,1,25
+CO,Payment for pneumonia patients,8,53,6,8
+CO,Payment for hip/knee replacement patients,22,21,7,8
+CT,Payment for heart attack patients,1,22,4,3
+CT,Payment for heart failure patients,0,17,12,1
+CT,Payment for pneumonia patients,1,18,11,0
+CT,Payment for hip/knee replacement patients,2,11,13,1
+DC,Payment for heart attack patients,0,7,0,0
+DC,Payment for heart failure patients,3,3,1,0
+DC,Payment for pneumonia patients,2,2,3,0
+DC,Payment for hip/knee replacement patients,2,0,3,2
+DE,Payment for heart attack patients,0,4,2,0
+DE,Payment for heart failure patients,0,5,1,0
+DE,Payment for pneumonia patients,0,4,2,0
+DE,Payment for hip/knee replacement patients,4,1,0,1
+FL,Payment for heart attack patients,5,127,20,26
+FL,Payment for heart failure patients,6,98,70,10
+FL,Payment for pneumonia patients,18,98,65,5
+FL,Payment for hip/knee replacement patients,21,50,76,20
+GA,Payment for heart attack patients,5,58,0,57
+GA,Payment for heart failure patients,29,74,2,29
+GA,Payment for pneumonia patients,34,77,7,15
+GA,Payment for hip/knee replacement patients,30,32,12,15
+GU,Payment for heart attack patients,1,0,0,1
+GU,Payment for heart failure patients,1,0,0,1
+GU,Payment for pneumonia patients,1,0,0,1
+GU,Payment for hip/knee replacement patients,0,0,0,1
+HI,Payment for heart attack patients,4,6,0,3
+HI,Payment for heart failure patients,2,10,0,3
+HI,Payment for pneumonia patients,5,7,1,6
+HI,Payment for hip/knee replacement patients,5,1,1,5
+IA,Payment for heart attack patients,3,24,0,76
+IA,Payment for heart failure patients,10,70,3,33
+IA,Payment for pneumonia patients,20,74,19,4
+IA,Payment for hip/knee replacement patients,31,15,6,24
+ID,Payment for heart attack patients,1,8,0,22
+ID,Payment for heart failure patients,4,12,2,19
+ID,Payment for pneumonia patients,4,26,1,8
+ID,Payment for hip/knee replacement patients,18,5,0,6
+IL,Payment for heart attack patients,5,83,16,71
+IL,Payment for heart failure patients,15,126,24,13
+IL,Payment for pneumonia patients,30,103,39,6
+IL,Payment for hip/knee replacement patients,39,40,37,26
+IN,Payment for heart attack patients,6,50,5,54
+IN,Payment for heart failure patients,4,91,14,10
+IN,Payment for pneumonia patients,13,83,17,6
+IN,Payment for hip/knee replacement patients,33,37,14,22
+KS,Payment for heart attack patients,2,19,2,86
+KS,Payment for heart failure patients,3,62,6,56
+KS,Payment for pneumonia patients,13,66,32,16
+KS,Payment for hip/knee replacement patients,19,18,7,9
+KY,Payment for heart attack patients,2,41,3,47
+KY,Payment for heart failure patients,10,64,8,12
+KY,Payment for pneumonia patients,29,54,9,3
+KY,Payment for hip/knee replacement patients,11,27,4,15
+LA,Payment for heart attack patients,6,34,2,54
+LA,Payment for heart failure patients,10,64,8,24
+LA,Payment for pneumonia patients,17,57,20,12
+LA,Payment for hip/knee replacement patients,15,26,13,20
+MA,Payment for heart attack patients,2,38,7,15
+MA,Payment for heart failure patients,1,51,10,1
+MA,Payment for pneumonia patients,7,48,8,1
+MA,Payment for hip/knee replacement patients,3,26,26,3
+MD,Payment for heart attack patients,2,35,3,5
+MD,Payment for heart failure patients,8,34,3,2
+MD,Payment for pneumonia patients,19,22,4,1
+MD,Payment for hip/knee replacement patients,16,17,7,5
+ME,Payment for heart attack patients,5,19,1,11
+ME,Payment for heart failure patients,8,25,1,2
+ME,Payment for pneumonia patients,15,19,0,2
+ME,Payment for hip/knee replacement patients,10,14,3,5
+MI,Payment for heart attack patients,9,58,3,53
+MI,Payment for heart failure patients,14,84,14,15
+MI,Payment for pneumonia patients,25,77,19,5
+MI,Payment for hip/knee replacement patients,49,44,7,17
+MN,Payment for heart attack patients,2,21,1,85
+MN,Payment for heart failure patients,3,61,2,62
+MN,Payment for pneumonia patients,23,67,1,38
+MN,Payment for hip/knee replacement patients,35,23,3,24
+MO,Payment for heart attack patients,4,45,4,51
+MO,Payment for heart failure patients,14,65,12,21
+MO,Payment for pneumonia patients,24,66,19,4
+MO,Payment for hip/knee replacement patients,29,25,11,13
+MP,Payment for heart attack patients,1,0,0,0
+MP,Payment for heart failure patients,1,0,0,0
+MP,Payment for pneumonia patients,1,0,0,0
+MP,Payment for hip/knee replacement patients,0,0,0,0
+MS,Payment for heart attack patients,5,13,6,57
+MS,Payment for heart failure patients,9,59,5,20
+MS,Payment for pneumonia patients,21,52,15,7
+MS,Payment for hip/knee replacement patients,1,11,13,9
+MT,Payment for heart attack patients,1,8,0,35
+MT,Payment for heart failure patients,5,16,0,33
+MT,Payment for pneumonia patients,19,21,1,19
+MT,Payment for hip/knee replacement patients,16,5,0,5
+NC,Payment for heart attack patients,17,54,0,32
+NC,Payment for heart failure patients,21,74,0,12
+NC,Payment for pneumonia patients,31,66,6,4
+NC,Payment for hip/knee replacement patients,31,38,12,9
+ND,Payment for heart attack patients,0,7,0,30
+ND,Payment for heart failure patients,3,16,0,24
+ND,Payment for pneumonia patients,7,24,2,11
+ND,Payment for hip/knee replacement patients,8,0,1,0
+NE,Payment for heart attack patients,0,16,4,48
+NE,Payment for heart failure patients,0,35,4,46
+NE,Payment for pneumonia patients,11,48,13,14
+NE,Payment for hip/knee replacement patients,12,24,7,9
+NH,Payment for heart attack patients,1,15,0,10
+NH,Payment for heart failure patients,3,20,2,1
+NH,Payment for pneumonia patients,9,15,2,0
+NH,Payment for hip/knee replacement patients,11,10,1,2
+NJ,Payment for heart attack patients,0,30,33,1
+NJ,Payment for heart failure patients,1,15,47,1
+NJ,Payment for pneumonia patients,0,24,40,0
+NJ,Payment for hip/knee replacement patients,6,12,34,11
+NM,Payment for heart attack patients,2,9,0,25
+NM,Payment for heart failure patients,5,25,0,10
+NM,Payment for pneumonia patients,22,15,1,3
+NM,Payment for hip/knee replacement patients,12,7,1,5
+NV,Payment for heart attack patients,2,11,6,11
+NV,Payment for heart failure patients,2,14,9,7
+NV,Payment for pneumonia patients,4,10,13,6
+NV,Payment for hip/knee replacement patients,9,2,11,3
+NY,Payment for heart attack patients,16,101,11,36
+NY,Payment for heart failure patients,31,86,39,12
+NY,Payment for pneumonia patients,49,85,31,5
+NY,Payment for hip/knee replacement patients,28,36,43,38
+OH,Payment for heart attack patients,2,82,8,57
+OH,Payment for heart failure patients,2,117,24,11
+OH,Payment for pneumonia patients,9,101,38,9
+OH,Payment for hip/knee replacement patients,32,62,43,15
+OK,Payment for heart attack patients,5,28,0,62
+OK,Payment for heart failure patients,12,61,4,37
+OK,Payment for pneumonia patients,35,58,13,11
+OK,Payment for hip/knee replacement patients,15,25,10,10
+OR,Payment for heart attack patients,6,19,0,32
+OR,Payment for heart failure patients,15,33,0,10
+OR,Payment for pneumonia patients,29,26,0,4
+OR,Payment for hip/knee replacement patients,30,10,0,8
+PA,Payment for heart attack patients,9,101,7,36
+PA,Payment for heart failure patients,6,112,31,6
+PA,Payment for pneumonia patients,20,82,50,4
+PA,Payment for hip/knee replacement patients,45,54,31,22
+PR,Payment for heart attack patients,6,9,0,32
+PR,Payment for heart failure patients,9,12,0,26
+PR,Payment for pneumonia patients,12,17,0,19
+PR,Payment for hip/knee replacement patients,3,3,1,25
+RI,Payment for heart attack patients,1,9,0,0
+RI,Payment for heart failure patients,1,9,0,1
+RI,Payment for pneumonia patients,1,8,1,1
+RI,Payment for hip/knee replacement patients,1,5,4,0
+SC,Payment for heart attack patients,6,26,1,27
+SC,Payment for heart failure patients,13,36,4,9
+SC,Payment for pneumonia patients,11,46,4,1
+SC,Payment for hip/knee replacement patients,19,12,11,11
+SD,Payment for heart attack patients,0,8,0,32
+SD,Payment for heart failure patients,2,16,1,34
+SD,Payment for pneumonia patients,11,30,2,12
+SD,Payment for hip/knee replacement patients,10,5,2,3
+TN,Payment for heart attack patients,6,43,1,57
+TN,Payment for heart failure patients,12,79,4,19
+TN,Payment for pneumonia patients,23,71,8,13
+TN,Payment for hip/knee replacement patients,24,19,9,19
+TX,Payment for heart attack patients,2,150,22,150
+TX,Payment for heart failure patients,13,169,81,97
+TX,Payment for pneumonia patients,40,153,115,70
+TX,Payment for hip/knee replacement patients,31,83,95,54
+UT,Payment for heart attack patients,0,14,0,17
+UT,Payment for heart failure patients,1,21,3,17
+UT,Payment for pneumonia patients,14,24,1,3
+UT,Payment for hip/knee replacement patients,6,16,9,4
+VA,Payment for heart attack patients,8,50,4,18
+VA,Payment for heart failure patients,6,68,4,5
+VA,Payment for pneumonia patients,16,56,6,6
+VA,Payment for hip/knee replacement patients,25,23,12,10
+VI,Payment for heart attack patients,2,0,0,0
+VI,Payment for heart failure patients,2,0,0,0
+VI,Payment for pneumonia patients,1,1,0,0
+VI,Payment for hip/knee replacement patients,1,0,0,1
+VT,Payment for heart attack patients,0,10,0,4
+VT,Payment for heart failure patients,3,10,0,1
+VT,Payment for pneumonia patients,9,4,1,0
+VT,Payment for hip/knee replacement patients,6,6,0,0
+WA,Payment for heart attack patients,8,36,1,33
+WA,Payment for heart failure patients,12,49,2,23
+WA,Payment for pneumonia patients,20,47,10,11
+WA,Payment for hip/knee replacement patients,39,15,1,7
+WI,Payment for heart attack patients,1,47,1,70
+WI,Payment for heart failure patients,8,92,3,17
+WI,Payment for pneumonia patients,27,84,5,4
+WI,Payment for hip/knee replacement patients,49,32,5,18
+WV,Payment for heart attack patients,1,22,1,25
+WV,Payment for heart failure patients,8,28,1,12
+WV,Payment for pneumonia patients,14,30,3,2
+WV,Payment for hip/knee replacement patients,11,6,5,11
+WY,Payment for heart attack patients,0,5,1,15
+WY,Payment for heart failure patients,1,12,0,14
+WY,Payment for pneumonia patients,12,10,0,5
+WY,Payment for hip/knee replacement patients,8,7,0,5
