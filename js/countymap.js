@@ -398,8 +398,11 @@ function plotMortalityData() {
             .style("width", "5px")
             .attr("x", function(d){return parseInt(d[1])*6-5;})
             .attr("y", function(d){return 100-parseFloat(d[2]*10000)})
-            .attr("height", function(d){return parseFloat(d[2]*10000)})
             .attr("width", 2)
+            .attr("height", function(d){
+                console.log(d[2]);
+                return parseFloat(d[2]*10000);
+            })
             .attr("class", "stateMortalityBar")
             .attr("id", function(d) { return "mort" + d[0].replace(" ","_")})
             .attr("name", function(d) { return d[1]})
